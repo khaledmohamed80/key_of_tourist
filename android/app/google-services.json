@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204023913050",
+    "project_id": "key-of-tourist",
+    "storage_bucket": "key-of-tourist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204023913050:android:7eb129da88cfa074ca1663",
+        "android_client_info": {
+          "package_name": "com.flutter.team_project.team_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8fFXYt0e81_1gSSJnvlUKtrP1niZYYSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
