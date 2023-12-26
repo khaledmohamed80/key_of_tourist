@@ -13,7 +13,6 @@ class HotelsView extends StatelessWidget {
       backgroundColor: Colors.white,
       body: SafeArea(
         child: SingleChildScrollView(
-          physics: BouncingScrollPhysics(),
           child: Column(
             children: [
               SizedBox(height: 20),
